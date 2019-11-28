@@ -12,6 +12,8 @@ An obvious question is whether a determinantally-thinned Poisson point process i
 
 If you use this code in a publication, please cite the aforementioned paper by Blaszczyszyn and Keeler[1]. Unless stated otherwise, H.P. Keeler wrote this Python code, which is based on MATLAB also written by H.P. Keeler. For further details, see https://github.com/hpaulkeeler/DetPoisson_MATLAB
 
+## Other repositories
+
 I originally wrote all the code in R and in MATLAB, which both have a very similar structure; see:  
 
 https://github.com/hpaulkeeler/DetPoisson_R 
@@ -26,6 +28,6 @@ After (re)writing my simple code in Julia, I noticed this repository with Julia 
 
 https://github.com/alshedivat/DeterminantalPointProcesses.jl
 
-References: 
+## References
 
 [1] Blaszczyszyn and Keeler, Determinantal thinning of point processes with network learning applications, 2018.
