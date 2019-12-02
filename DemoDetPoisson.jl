@@ -12,6 +12,8 @@ using LinearAlgebra;
 using PyPlot #uses Python for plotting
 PyPlot.close("all");  # close all PyPlot figures
 
+#set random seed for reproducibility
+#Random.seed!(1234)
 
 ###START -- Parameters -- ###START
 #Poisson point process parameters
